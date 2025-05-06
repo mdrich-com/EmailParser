@@ -1,0 +1,5 @@
+__pycache__/
+*.pyc
+EMAIL_ADDRESSES_*.csv
+TESTEMAILS
+.DS_Store
